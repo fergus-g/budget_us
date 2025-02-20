@@ -1,0 +1,4 @@
+.expenseInput {
+  display: flex;
+  flex-direction: row;
+}
