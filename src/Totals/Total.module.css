@@ -1,0 +1,12 @@
+.card {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  font-size: x-large;
+  margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.container {
+  height: 500px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.card {
+  padding-top: 20px;
+  height: 500px;
+  width: 800px;
+  align-self: center;
+}
